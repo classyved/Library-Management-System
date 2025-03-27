@@ -4,7 +4,7 @@
 
 ### Following feature will be added in this repo
 
-1. Server side caching
+1. Server side caching.
 2. Server side form validation
 3. Test coverage
 4. Scalable image upload
